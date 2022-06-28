@@ -1,0 +1,29 @@
+
+/* weather dash style */
+.title {
+    height: 90px;
+    background-color: grey;
+    color: white;
+    padding: 20px;
+    
+  }
+
+  /* style for the zip code div that holds the input search box */
+  .zipCode{
+    background-color:white;
+    font-size: 20px;
+  }
+
+  /* style for the 5 Day div's */
+  div#fiveDay div
+  {
+    width: 125px;
+    color: orange;
+    padding: 5px;
+    border-radius: 5px;
+  }
+
+  .city
+  {
+    cursor: pointer;
+  }
